@@ -1,6 +1,6 @@
-package Conditionals;
+package Patterns;
 
-public class whileloop {
+public class pat1 {
     public static void main(String[] args) {
         
     }
